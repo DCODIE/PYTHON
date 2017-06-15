@@ -10,5 +10,4 @@ def stats(filename):
             words+=len(wordslit)
             chars+=len(lin)
     print("Line Count:%i\nWords Count:%i\nCharacters Count:%i" % (numlines, words, chars))
-
 stats('sample.txt')
