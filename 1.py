@@ -1,4 +1,4 @@
-#function prints, the number of lines, words, and characters in the file
+#function prints the number of lines, words, and characters in the file
 def stats(filename):
     numlines = 0
     words = 0
