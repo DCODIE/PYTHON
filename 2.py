@@ -1,3 +1,7 @@
+"""Function censor() takes the name of a file (a string) as input. 
+The function should open the file, read it, and then write it into file  with this modification that :
+Every occurrence of a four-letter word in the file should be replaced with string 'xxxx'."""
+
 import re
 def censor(file_name):
     f1=open(file_name,"r")
