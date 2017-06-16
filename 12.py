@@ -1,3 +1,5 @@
+"""(a)	Write a graphic based python program using Tkinter. Provide two entry boxes for user input, radio button group having buttons labeled as add, sub, mul and div and another entry box labeled Result. 
+When inputs are given and one button among the radio button group is selected, corresponding result must be displayed in entry box labeled result. """
 from tkinter import *
 from time import sleep
 def add():
